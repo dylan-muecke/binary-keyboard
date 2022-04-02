@@ -1,6 +1,5 @@
 # binary-keyboard
-This project was designed and implemented from scratch as the final project for a Microcontroller Archeticture class.
-This project was completed in collaboration with a lab partner.
+This project was designed and implemented from scratch as the final project for a Microcontroller Archeticture class, and was completed in collaboration with a lab partner.
 
 
 
